@@ -23,3 +23,6 @@ All data to be logged in console.
 Licence
 Licenced under the MIT license.
 
+https://katiespen.github.io/Console-Finances/
+
+![Screenshot_20230208_095547](https://user-images.githubusercontent.com/119673192/217501176-34aeb9d6-7edb-4dd4-9c1c-9fb022b46b79.png)
