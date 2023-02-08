@@ -94,16 +94,13 @@ console.log ("-------------------------------")
 let totalMonths = finances.length;
 console.log ("Total Months: " + totalMonths);
 
+let sum = 0;
 
-function sumArray(array) {
-    let sum = 0
-
-    for (let i = 0; i < array.length; i += 0){
-        sum += array[i]
+for (let i = 0; i < finances; i ++){
+    sum += finances.length[i];
     }
-    console.log(sum)
-    return sum
-   }
+    
+console.log("Total £" + sum)
 
 //   console.log ('Total £');
 
